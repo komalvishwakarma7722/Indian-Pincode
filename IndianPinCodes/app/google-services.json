@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210181589991",
+    "project_id": "indian-pin-codes",
+    "storage_bucket": "indian-pin-codes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210181589991:android:55757e7f52809599fdcb42",
+        "android_client_info": {
+          "package_name": "com.example.indianpincodes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdrFml2PcjdZ4JtChfaTtkfp5CfdYLZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
